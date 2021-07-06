@@ -8,6 +8,7 @@
 </head>
 <body>
 <h1>패키징 시험</h1>
-<h2>깃 ㅜㅜ</h2>
+<h2>gitㅜㅜ</h2>
+
 </body>
 </html>
